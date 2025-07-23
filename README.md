@@ -83,9 +83,9 @@ Este programa te permitirá no solo alcanzar el B2, sino también integrar el in
 
 Aquí tienes una **programación detallada por temas y fechas** para tu plan de formación autodidacta en inglés (A1 → B2), estructurada en **3 fases** (9 meses, 1 hora diaria). Adapta las fechas según tu inicio.  
 
----
 
-### **📅 Fase 1: Nivel A1-A2 (Meses 1-3) – Fundamentos + Vocabulario STEM Básico**  
+
+### **Fase 1: Nivel A1-A2 (Meses 1-3) – Fundamentos + Vocabulario STEM Básico**  
 **Objetivo:** Dominar estructuras simples y vocabulario matemático esencial.  
 
 #### **Mes 1: Gramática Básica + Números/Operaciones**  
@@ -102,7 +102,7 @@ Aquí tienes una **programación detallada por temas y fechas** para tu plan de 
 - **Semana 7-8:** Vocabulario de geometría (*perimeter*, *area*, *volume*).  
   - Práctica: Explicar propiedades de figuras en 1 minuto (grabación).  
 
-#### **Mes 3: Consolidación + Evaluación A2**  
+# **Mes 3: Consolidación + Evaluación A2**  
 - **Semana 9-10:** Repaso general con ejercicios integrados (ej: *"Describe este gráfico de funciones"*).  
 - **Semana 11-12:** Simulacro de examen A2 (usando tests de EF English Live).  
 
@@ -112,7 +112,7 @@ Aquí tienes una **programación detallada por temas y fechas** para tu plan de 
 
 ---
 
-### **📅 Fase 2: Nivel B1 (Meses 4-6) – Comunicación Científica**  
+### **Fase 2: Nivel B1 (Meses 4-6) – Comunicación Científica**  
 **Objetivo:** Explicar conceptos matemáticos en pasado/presente y usar voz pasiva.  
 
 #### **Mes 4: Pasado Simple + Historias Matemáticas**  
@@ -121,7 +121,7 @@ Aquí tienes una **programación detallada por temas y fechas** para tu plan de 
 - **Semana 15-16:** Presente perfecto (*"Scientists have discovered..."*) + Teoremas clave.  
   - Práctica: Resumir un artículo de *Scientific American* en 10 líneas.  
 
-#### **Mes 5: Voz Pasiva + Debate**  
+# **Mes 5: Voz Pasiva + Debate**  
 - **Semana 17-18:** Voz pasiva (*"The formula is applied to..."*) + Vocabulario avanzado (*algorithm*, *hypotenuse*).  
   - Práctica: Grabar una mini-clase explicando un teorema (ej: Pitágoras).  
 - **Semana 19-20:** Frases para debates (*"Let’s verify this hypothesis"*).  
@@ -137,7 +137,7 @@ Aquí tienes una **programación detallada por temas y fechas** para tu plan de 
 
 ---
 
-### **📅 Fase 3: Nivel B2 (Meses 7-9) – Fluidez Académica**  
+### **Fase 3: Nivel B2 (Meses 7-9) – Fluidez Académica**  
 **Objetivo:** Usar condicionales, discurso indirecto y lenguaje abstracto.  
 
 #### **Mes 7: Condicionales + Abstractos**  
@@ -146,13 +146,13 @@ Aquí tienes una **programación detallada por temas y fechas** para tu plan de 
 - **Semana 27-28:** Lenguaje abstracto (*conjecture*, *quantitative analysis*) + Conectores (*however*, *therefore*).  
   - Práctica: Redactar un abstract de investigación ficticio.  
 
-#### **Mes 8: Discurso Indirecto + Presentaciones**  
+## **Mes 8: Discurso Indirecto + Presentaciones**  
 - **Semana 29-30:** Discurso indirecto (*"Euler stated that..."*) + Vocabulario de pruebas matemáticas.  
   - Práctica: Corregir ejercicios de estudiantes en inglés.  
 - **Semana 31-32:** Estructuras para presentaciones (*"Today I’ll discuss..."*).  
   - Práctica: Grabar una ponencia de 5 minutos (ej: *Fibonacci sequences*).  
 
-#### **Mes 9: Consolidación + Evaluación B2**  
+## **Mes 9: Consolidación + Evaluación B2**  
 - **Semana 33-34:** Repaso con artículos académicos (ej: *"The Applications of Algebra"*).  
 - **Semana 35-36:** Simulacro de examen B2 (Edutin) + Portafolio final.  
 
@@ -160,9 +160,9 @@ Aquí tienes una **programación detallada por temas y fechas** para tu plan de 
 - **Cursos:** Edutin (certificado B2).  
 - **Videos:** Clases de Khan Academy (tomar notas en inglés).  
 
----
 
-### **📌 Actividades Diarias (1 hora)**  
+
+### **Actividades Diarias (1 hora)**  
 - **Lunes-Viernes:**  
   - 20 min: Gramática/vocabulario (App: **Memrise** con lista *Technical English*).  
   - 20 min: Lectura de un paper o problema matemático en inglés.  
@@ -170,12 +170,12 @@ Aquí tienes una **programación detallada por temas y fechas** para tu plan de 
 - **Sábados:** Ver una clase de **Khan Academy** y resumirla.  
 - **Domingos:** Autoevaluación con **test de nivel gratuito** (EF Set).  
 
----
 
-### **🎯 Evaluación Final**  
+
+## ** Evaluación Final**  
 - **Certificados:** EF English Live (A2), Edutin (B2), o Coursera (STEM English).  
 - **Portafolio:** Incluir grabaciones de clases, redacciones y traducciones.  
 
-**¡Adapta el ritmo según tus necesidades!** Si algún tema requiere más tiempo, extiende las semanas. ¿Necesitas ajustar algún recurso o actividad? 😊  
+ 
 
 
